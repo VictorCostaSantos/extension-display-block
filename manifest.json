@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Ativar Pesquisa",
+  "version": "1.0",
+  "description": "Ativa a classe task-menu-header-search",
+  "action": {
+      "default_popup": "index.html"
+  },
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+        "16": "icon-se.png",
+        "48": "icon-se.png",
+        "128": "icon-se.png"}
+}
