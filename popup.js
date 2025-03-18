@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", function () {
     function toggleMenu() {
         let elemento = document.querySelector(".task-menu-header-search");
         if (elemento) {
-            // Verifica o estado atual e alterna entre 'block' e 'none'
             if (elemento.style.display === "none" || elemento.style.display === "") {
                 elemento.style.setProperty("display", "block", "important");
                 console.log("Elemento ativado!");
