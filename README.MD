@@ -16,6 +16,17 @@ A extensão **Ativar Pesquisa** adiciona um campo de busca diretamente na interf
 
 ---
 
+
+
+## 📥 Funcionalidade extra
+
+Agora, o botão **Fórum**, localizado no topo da plataforma, está totalmente funcional! Ao clicar nele, você será redirecionado diretamente para a página central do fórum, facilitando o acesso rápido às discussões e interações com a comunidade.
+
+![Gif mostrando o funcionamento do botão fórum que retorna para página principal](https://i.imgur.com/x5kvK2O.gif)
+
+
+---
+
 ## 📥 Instalação
 
 ### Instalação Manual
