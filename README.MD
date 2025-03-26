@@ -30,7 +30,7 @@ Agora, o botão **Fórum**, localizado no topo da plataforma, está totalmente f
 ## 📥 Instalação
 
 ### Instalação Manual
-1. Faça o download do arquivo `.zip` da extensão [aquihttps://github.com/VictorCostaSantos/extension-display-block/archive/refs/heads/main.zip](#) (ou clone este repositório).
+1. Faça o download do arquivo `.zip` da extensão [aqui](https://github.com/VictorCostaSantos/extension-display-block/archive/refs/heads/main.zip](#) (ou clone este repositório).
 2. Extraia os arquivos em uma pasta local.
 3. Acesse `chrome://extensions` no seu navegador.
 4. Ative o **Modo Desenvolvedor** (canto superior direito).
