@@ -16,10 +16,21 @@ A extensão **Ativar Pesquisa** adiciona um campo de busca diretamente na interf
 
 ---
 
+
+
+## 📥 Funcionalidade extra
+
+Agora, o botão **Fórum**, localizado no topo da plataforma, está totalmente funcional! Ao clicar nele, você será redirecionado diretamente para a página central do fórum, facilitando o acesso rápido às discussões e interações com a comunidade.
+
+![Gif mostrando o funcionamento do botão fórum que retorna para página principal](https://i.imgur.com/x5kvK2O.gif)
+
+
+---
+
 ## 📥 Instalação
 
 ### Instalação Manual
-1. Faça o download do arquivo `.zip` da extensão [aquihttps://github.com/VictorCostaSantos/extension-display-block/archive/refs/heads/main.zip](#) (ou clone este repositório).
+1. Faça o download do arquivo `.zip` da extensão [aqui](https://github.com/VictorCostaSantos/extension-display-block/archive/refs/heads/main.zip) (ou clone este repositório).
 2. Extraia os arquivos em uma pasta local.
 3. Acesse `chrome://extensions` no seu navegador.
 4. Ative o **Modo Desenvolvedor** (canto superior direito).
